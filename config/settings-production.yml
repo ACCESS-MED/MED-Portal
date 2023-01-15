@@ -12,9 +12,9 @@ google_analytics: "00-0000-00"
 github: "ACCESS-MED/MED-Portal"
 reviews: "ACCESS-MED/med-reviews"
 models_repo: "ACCESS-MED/med-recipes"
-models_html_url: ""
+models_html_url: "https://medportal.herokuapp.com/models"
 product: "recipe" # the *thing* being submitted for review
-reviewers: ""
+reviewers: "https://docs.google.com/spreadsheets/d/1z7FXwP5HfsxfIcM7SypxkYYWC8YCrV_lNdg9TJMAbx8/edit?usp=sharing"
 submission_enquiry: |-
   **Project repository URL:** INSERT YOUR REPOSITORY LINK HERE
 
