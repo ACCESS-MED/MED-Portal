@@ -3,6 +3,7 @@
     <div class="hero-content col-lg-7">
       <h1>The <%= Rails.application.settings['name'] %></h1>
       <p class="lead">A Catalog of Model Evaluation Recipes for ACCESS Models.</p>
+      <p> Disclaimer: This webpage is a proof of concept and is only used internally by ACCESS-NRI</p>
       <div class="hero-ctas">
         <%= link_to "Submit a recipe to #{Rails.application.settings['abbreviation']}".html_safe, new_model_path, class: "btn" %>
         <%= link_to "Volunteer to review".html_safe, "/reviewer-signup.html", class: "btn" %>
